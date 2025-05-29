@@ -43,7 +43,7 @@ class HomePage extends StatelessWidget {
               accountEmail: Text("a.22308051281063@cbtis128.edu.mx"),
               currentAccountPicture: CircleAvatar(
                 child: Text(
-                  "AM",
+                  "EAGA",
                   style: TextStyle(
                     color: Color.fromARGB(255, 54, 13, 201),
                     fontSize: 20.0,
