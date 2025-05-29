@@ -45,7 +45,7 @@ class HomePage extends StatelessWidget {
                 child: Text(
                   "AM",
                   style: TextStyle(
-                    color: Colors.pink,
+                    color: Color.fromARGB(255, 54, 13, 201),
                     fontSize: 20.0,
                     fontWeight: FontWeight.bold,
                   ),
